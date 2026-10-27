@@ -1,6 +1,6 @@
 # Marcos Adriano
 
-Software development learner focused on Software Engineering, Cybersecurity, Backend and Web Development.
+Aspiring software engineer building a foundation in Software Engineering, Cybersecurity, Backend and Web Development.
 
 ## About me
 
