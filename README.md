@@ -1,16 +1,31 @@
-## Hi there 👋
+# Marcos Adriano
 
-<!--
-**eumarcosadriano/eumarcosadriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software development learner focused on Software Engineering, Cybersecurity, Backend and Web Development.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔐 Currently studying Cybersecurity through Cisco
+- 🧩 Building a strong foundation in Software Engineering
+- 📊 Planning to explore Data and analytics next
+- 🌱 Building practical projects and documenting my learning journey
+
+## Current focus
+
+- Writing clean and maintainable code
+- Learning secure development and defensive cybersecurity
+- Practicing Git, testing and technical documentation
+- Turning learning into practical, well-documented projects
+
+## Roadmap
+
+1. Software Engineering fundamentals
+2. Cybersecurity labs and defensive automation
+3. Data analysis and data-driven projects
+
+## Featured projects
+
+I am building this portfolio step by step. Each project will include its purpose, technologies, setup instructions, tests and lessons learned.
+
+## Connect
+
+- GitHub: [@eumarcosadriano](https://github.com/eumarcosadriano)
