@@ -7,6 +7,7 @@ Aspiring software engineer building a foundation in Software Engineering, Cybers
 - 🔐 Currently studying Cybersecurity through Cisco
 - 🧩 Building a strong foundation in Software Engineering
 - 📊 Planning to explore Data and analytics next
+- 🇺🇸 Basic English, currently improving through practice
 - 🌱 Building practical projects and documenting my learning journey
 
 ## Current focus
